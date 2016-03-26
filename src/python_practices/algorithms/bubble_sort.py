@@ -2,7 +2,7 @@
 bubble_sort.py
 
 Compares and swaps adjacent elements.
-
+https://en.wikipedia.org/wiki/Bubble_sort
 '''
 
 def bubble_sort(seq):

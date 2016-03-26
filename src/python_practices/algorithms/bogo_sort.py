@@ -2,6 +2,7 @@
 bogo_sort.py
 
 Picks two elements at random and swaps them
+https://en.wikipedia.org/wiki/Bogosort
 '''
 
 import random
